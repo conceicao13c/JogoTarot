@@ -29,3 +29,4 @@ Um site interativo para jogar tarot online, permitindo que os usuários tirem ca
 ├─ style.css         # Estilos do site
 ├─ script.js         # Lógica do jogo
 └─ assets/           # Imagens e recursos visuais
+
