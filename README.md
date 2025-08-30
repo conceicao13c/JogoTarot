@@ -23,10 +23,3 @@ Um site interativo para jogar tarot online, permitindo que os usuários tirem ca
    ```bash
    git clone [https://github.com/conceicao13c/JogoTarot]
    
-/projeto-tarot
-│
-├─ index.html        # Página principal
-├─ style.css         # Estilos do site
-├─ script.js         # Lógica do jogo
-└─ assets/           # Imagens e recursos visuais
-
